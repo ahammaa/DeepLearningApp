@@ -1,0 +1,3 @@
+This mini project is used for Image Classification using the deep learning technique Convolutional Neural Networks (CNN).
+The used dataset is MNIST dataset, which stands for Modified National Institute of Standards and Technology database. It is a large database of handwritten digits that is commonly used for training various image processing systems.
+Keras API is used. Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. 
